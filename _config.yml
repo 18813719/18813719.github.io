@@ -6,4 +6,4 @@ author: Denis # 您的名字
 language: # 网站使用的语言
 timezone: # 网站时区
 
-new_post_name: :title.md
+new_post_name: 2018-12-31-new-years-eve-is-awesome.md
